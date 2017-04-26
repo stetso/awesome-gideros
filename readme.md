@@ -39,6 +39,7 @@
 - [Forum](http://giderosmobile.com/forum/) - join the very friendly and helpful community
 - [Online Editor](http://giderosmobile.com/code/) - try Gideros in your browser without installing anything
 - [Online Examples](http://giderosmobile.com/examples) - see some of the capabilites of Gideros in your browser
+- [Developer Guide](http://giderosmobile.com/guide) - official list of guides and tutorials
 
 ## Gideros Resources
 
@@ -55,6 +56,7 @@
 - [Simple square-dodge game](http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/) - introductory tutorial about creating a simple square-dodge game
 - [Top-down roguelike Tutorial](https://programmingbymoonlight.com/roguelike-intro/) - extensive tutorial series about making a turn-based roguelike in Gideros
 - [Breakout Clone](http://blog.hotbutteredgames.com/post/143878823915/gideros-tutorial-a-simple-box2d-game-gideros-is-a) - tutorial about creating a Breakout-like game using Gideros and Box2D
+- ["Grab the treasure" course](http://www.moosader.com/learn/introduction-to-mobile-game-development/) - a comprehensive getting-started guide to Gideros by developing a small game
 
 
 ### Publications
@@ -99,6 +101,7 @@
 ### GUI
 - [Layout](https://github.com/Nlcke/layout) - the "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23))
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - a simple class for creating clickable buttons
+- [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - a sliding UI-Element that can be used for example for level selection
 
 
 ### 3d
