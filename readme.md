@@ -1,10 +1,9 @@
 # Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](http://giderosmobile.com)
+[<img src="gideros_logo.png" align="right" width="70">](http://giderosmobile.com)
 
 > A curated list of awesome resources for the Gideros Game Development Framework. Please feel free to contribute to the list by making a pull request. 
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
 ---
 
 ## Contents
@@ -119,6 +118,8 @@
 - [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
 
 
-## License
+## License and contributing
+ 
+Please contribute to the list. Simply read the [contribution guidelines](contributing.md) to get started.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
