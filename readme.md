@@ -112,6 +112,9 @@
 *Note: 3D support is still in development but if you like to play around with it already, here are some starting points*
 - [Tutorial using 3D in Gideros](https://www.youtube.com/watch?v=IfHwdJD6ad8) - introduction by one of the maintainers of Gideros
 
+### Plugins
+- [SKStoreReview](https://github.com/mertkurum/GiderosStoreReview) - Gideros Plugin for SKStoreReviewController iOS 10.3+
+
 ## Useful Lua-Libraries
 *general Lua libraries that are useful in gamedev but are not Gideros specific*
 
