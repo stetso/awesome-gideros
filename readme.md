@@ -23,7 +23,7 @@
 	- [Tilemaps](#tilemaps)
 	- [Camera](#camera)
 	- [Audio](#audio)
-	- [Monetizing](#monetizing)
+	- [Monetization](#monetization)
 	- [Saving and Loading](#saveload)
 	- [GUI](#gui)
 	- [3D](#3d)
@@ -67,7 +67,7 @@
 - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug ) - with Gideros support (Windows only)
 - [Sublime Text 3 plugin](http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1) - adding Gideros support to ST3
 
-#### Graphics and Shaders
+### Graphics and Shaders
 - [Shaders in Gideros](http://bit.ly/2pkF09m) - an introductory text about shaders in Gideros
 - [Shadertoy viewer](http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1) - check out shaders from Shadertoy using Gideros
 - [Intro to clipping and the RenderTarget](http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget) - text-based tutorial on how to use the RenderTarget class to create a clipping effect
@@ -99,9 +99,10 @@
 - [Using JSON](http://giderosmobile.com/forum/discussion/6918/saving-and-loading-data-files#Item_1) - Loading and saving manually via JSON
 - [DataSaver module](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile) - a very user-friendly wrapper to make saving and loading data as easy as possible
 
-### Monetizing
+### Monetization
 - [Admob integration](http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app) - video tutorial about integrating Admob into your game
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - second part of the Admob tutorial showing Google Play Service integration
+- [StoreReview integration](https://github.com/mertkurum/GiderosStoreReview) - plugin that allows to use the StoreReview API for iOS 10.3
 
 ### GUI
 - [Layout](https://github.com/Nlcke/layout) - the "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23))
