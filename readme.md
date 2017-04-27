@@ -68,7 +68,7 @@
 - [Sublime Text 3 plugin](http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1) - adding Gideros support to ST3
 
 #### Graphics and Shaders
-- [Shaders in Gideros](http://hieroglyphe.net/gideros/Writing shaders for Gideros Mobile.pdf) - an introductory text about shaders in Gideros
+- [Shaders in Gideros](http://bit.ly/2pkF09m) - an introductory text about shaders in Gideros
 - [Shadertoy viewer](http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1) - check out shaders from Shadertoy using Gideros
 - [Intro to clipping and the RenderTarget](http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget) - text-based tutorial on how to use the RenderTarget class to create a clipping effect
 
