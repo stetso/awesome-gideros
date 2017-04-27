@@ -6,9 +6,7 @@
 	<br>
 </h1>
 
-> A curated list of awesome resources for the Gideros Game Development Framework. Please feel free to contribute to the list by making a pull request. 
-
-
+> A curated list of awesome resources for the Gideros Game Development Framework that allows you to easily create games and Apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request. 
 
 ## Contents
 
@@ -18,7 +16,9 @@
 	- [Full game examples](#fullgame)
 	- [Publications](#publications)
 	- [IDEs](#ide)
+	- [Graphics and Shaders](#gfx)
 	- [Scene Managment](#scenes)
+	- [Input](#input)
 	- [Animation and Tweens](#animation)
 	- [Tilemaps](#tilemaps)
 	- [Camera](#camera)
@@ -28,8 +28,6 @@
 	- [GUI](#gui)
 	- [3D](#3d)
 - [Useful Lua-Libraries](#lua)
-
-
 
 ## Download and Getting Started
 
@@ -49,8 +47,6 @@
 - [Introductory Video Tutorial](https://www.youtube.com/watch?v=IRLxBijIX50) - by one of the maintainers of Gideros
 - [Publishing to Android](http://giderosmobile.com/forum/discussion/6894/publishing-tutorial#Item_7) - getting started with publishing to Android
 - [C++-plugin development](http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player) - getting started with Gideros plugin development in C++
-- [Intro to clipping and the RenderTarget](http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget) - text-based tutorial on how to use the RenderTarget class to create a clipping effect
-
 
 ### Full game examples
 - [Simple square-dodge game](http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/) - introductory tutorial about creating a simple square-dodge game
@@ -69,11 +65,21 @@
 - [Live Coding with Gideros and ZeroBrane Studio](https://www.youtube.com/watch?v=wPYvJxFxMkM) - video showing the live coding capabilities of ZBS and Gideros
 - [ZeroBrane Studio integration and debugging](https://www.youtube.com/watch?v=GIipyzSpSr0) - video tutorial by the creator of ZBS
 - [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=devCAT.lua-debug ) - with Gideros support (Windows only)
+- [Sublime Text 3 plugin](http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1) - adding Gideros support to ST3
+
+#### Graphics and Shaders
+- [Shaders in Gideros](http://hieroglyphe.net/gideros/Writing shaders for Gideros Mobile.pdf) - an introductory text about shaders in Gideros
+- [Shadertoy viewer](http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1) - check out shaders from Shadertoy using Gideros
+- [Intro to clipping and the RenderTarget](http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget) - text-based tutorial on how to use the RenderTarget class to create a clipping effect
 
 ### Scene Management
 - [SceneManager](http://appcodingeasy.com/Gideros-Mobile/Manage-Scenes-in-Gideros-Mobile) - easily switch between scenes with or without transitions
 - [Passing variables using the SceneManager](http://giderosmobile.com/forum/discussion/1474/passing-variables-with-scene-manager/p1) - passing variables to the next scene when using the scene manager
 
+### Input
+- [Gestures](http://appcodingeasy.com/Gideros-Mobile/Detecting-Gestures-in-Gideros) - define and detect complex gestures from points a list of points
+- [Accelerometer](http://appcodingeasy.com/Gideros-Mobile/Using-Accelerometer-with-Box2d-in-Gideros) - quick example of how to use the device accelerometer as input
+- [Shake detection](http://appcodingeasy.com/Gideros-Mobile/Gideros-Shake-detection) - small snippet to detect device shake
 
 ### Animation and Tweens
 - [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - tween sprite variables with this library (comes with all the easing functions you need)
@@ -81,7 +87,7 @@
 
 
 ### Tilemaps
- - [Collision with Tilemaps](http://giderosmobile.com/forum/discussion/6353/collision-with-any-object/p1) - examples and suggestions on how to make stuff collide with the tiles 
+ - [Collision with Tilemaps](http://giderosmobile.com/forum/discussion/6353/collision-with-any-object/p1) - examples and suggestions on how to make stuff collide with the tiles in your tilemap
 
  ### Camera
  - [Smooth camera with Drag and Pinch-to-Zoom](http://giderosmobile.com/forum/discussion/2715/camera-class-with-kinetics-and-pinch-to-zoom/p1) - useful class implementation for a camera in a mobile game
@@ -97,20 +103,16 @@
 - [Admob integration](http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app) - video tutorial about integrating Admob into your game
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - second part of the Admob tutorial showing Google Play Service integration
 
-
 ### GUI
 - [Layout](https://github.com/Nlcke/layout) - the "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23))
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - a simple class for creating clickable buttons
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - a sliding UI-Element that can be used for example for level selection
 
-
 ### 3d
 *Note: 3D support is still in development but if you like to play around with it already, here are some starting points*
 - [Tutorial using 3D in Gideros](https://www.youtube.com/watch?v=IfHwdJD6ad8) - introduction by one of the maintainers of Gideros
 
-
 ## Useful Lua-Libraries
-
 *general Lua libraries that are useful in gamedev but are not Gideros specific*
 
 - [lume](https://github.com/rxi/lume) - great collection of functions that are useful for game development
