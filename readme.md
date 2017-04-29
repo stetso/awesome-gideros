@@ -84,6 +84,7 @@
 ### Animation and Tweens
 - [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - tween sprite variables with this library (comes with all the easing functions you need)
 - [Animation using MovieClip](http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/) - tutorial on how to animate sprites using the MovieClip class
+- [Spriteheet animation class](https://github.com/nascode/gideros_animsheet) - class that helps with creating and playing animations from spritesheets
 
 
 ### Tilemaps
