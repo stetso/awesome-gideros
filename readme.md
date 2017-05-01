@@ -27,6 +27,7 @@
 	- [Saving and Loading](#saveload)
 	- [GUI](#gui)
 	- [3D](#3d)
+	- [Plugins](#plugins)
 - [Useful Lua-Libraries](#lua)
 
 ## Download and Getting Started
@@ -103,7 +104,6 @@
 ### Monetization
 - [Admob integration](http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app) - video tutorial about integrating Admob into your game
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - second part of the Admob tutorial showing Google Play Service integration
-- [StoreReview integration](https://github.com/mertkurum/GiderosStoreReview) - plugin that allows to use the StoreReview API for iOS 10.3
 
 ### GUI
 - [Layout](https://github.com/Nlcke/layout) - the "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23))
