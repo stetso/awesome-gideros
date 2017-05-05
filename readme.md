@@ -15,7 +15,7 @@
 	- [General Tutorials and Tips](#tutorials)
 	- [Full game examples](#fullgame)
 	- [Publications](#publications)
-	- [IDEs](#ide)
+	- [IDEs and Editors](#ide)
 	- [Graphics and Shaders](#gfx)
 	- [Scene Managment](#scenes)
 	- [Input](#input)
@@ -48,6 +48,7 @@
 - [Introductory Video Tutorial](https://www.youtube.com/watch?v=IRLxBijIX50) - by one of the maintainers of Gideros
 - [Publishing to Android](http://giderosmobile.com/forum/discussion/6894/publishing-tutorial#Item_7) - getting started with publishing to Android
 - [Improving performance](http://giderosmobile.com/forum/discussion/4892/software-improve-what-kind-of-skills-do-you-need) - forum thread with hints about improving the performance of Gideros apps
+- [Desktop API](http://giderosmobile.com/forum/discussion/5870/new-desktop-api-test/p1) - overview of the Desktop API to manipulate mouse cursor and window decorations
 
 ### Full game examples
 - [Simple square-dodge game](http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/) - introductory tutorial about creating a simple square-dodge game
@@ -61,7 +62,8 @@
 - [Gideros Mobile Game Development](https://www.packtpub.com/game-development/gideros-mobile-game-development) - comprehensive book about developing a game for mobile with Gideros
 - [Learn Lua for iOS Game Development](http://www.apress.com/us/book/9781430246626) - introducing a variety of Lua-based game development frameworks including Gideros
 
-### IDEs
+### IDEs and Editors
+*Code editors and plugins that work with Gideros*
 - [Using ZeroBrane Studio with Gideros](http://www.indiedb.com/tutorials/gideros-with-zerobrane) - introductory tutorial for using ZBS with Gideros Remote Preview 
 - [Live Coding with Gideros and ZeroBrane Studio](https://www.youtube.com/watch?v=wPYvJxFxMkM) - video showing the live coding capabilities of ZBS and Gideros
 - [ZeroBrane Studio integration and debugging](https://www.youtube.com/watch?v=GIipyzSpSr0) - video tutorial by the creator of ZBS
@@ -78,6 +80,7 @@
 - [Passing variables using the SceneManager](http://giderosmobile.com/forum/discussion/1474/passing-variables-with-scene-manager/p1) - passing variables to the next scene when using the scene manager
 
 ### Input
+- [GidSwipe](https://github.com/stetso/GidSwipe) - easy to use tap and swipe manager for mobile 
 - [Gestures](http://appcodingeasy.com/Gideros-Mobile/Detecting-Gestures-in-Gideros) - define and detect complex gestures from points a list of points
 - [Accelerometer](http://appcodingeasy.com/Gideros-Mobile/Using-Accelerometer-with-Box2d-in-Gideros) - quick example of how to use the device accelerometer as input
 - [Shake detection](http://appcodingeasy.com/Gideros-Mobile/Gideros-Shake-detection) - small snippet to detect device shake
