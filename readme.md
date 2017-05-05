@@ -12,7 +12,7 @@
 
 - [Download and Getting Started](#starting)
 - [Gideros Resources](#resources)
-	- [General Tutorials](#tutorials)
+	- [General Tutorials and Tips](#tutorials)
 	- [Full game examples](#fullgame)
 	- [Publications](#publications)
 	- [IDEs](#ide)
@@ -44,10 +44,10 @@
 
 *A collection of resources (blog and forum entries, websites, packages etc) for Gideros*
 
-### General Tutorials
+### General Tutorials and Tips
 - [Introductory Video Tutorial](https://www.youtube.com/watch?v=IRLxBijIX50) - by one of the maintainers of Gideros
 - [Publishing to Android](http://giderosmobile.com/forum/discussion/6894/publishing-tutorial#Item_7) - getting started with publishing to Android
-- [C++-plugin development](http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player) - getting started with Gideros plugin development in C++
+- [Improving performance](http://giderosmobile.com/forum/discussion/4892/software-improve-what-kind-of-skills-do-you-need) - forum thread with hints about improving the performance of Gideros apps
 
 ### Full game examples
 - [Simple square-dodge game](http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/) - introductory tutorial about creating a simple square-dodge game
@@ -116,6 +116,7 @@
 
 ### Plugins
 - [SKStoreReview](https://github.com/mertkurum/GiderosStoreReview) - Gideros Plugin for SKStoreReviewController iOS 10.3+
+- [C++-plugin development](http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player) - getting started with Gideros plugin development in C++
 
 ## Useful Lua-Libraries
 *general Lua libraries that are useful in gamedev but are not Gideros specific*
