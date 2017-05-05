@@ -6,7 +6,7 @@
 	<br>
 </h1>
 
-> A curated list of awesome resources for the Gideros Game Development Framework that allows you to easily create games and Apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request. 
+> A curated list of awesome resources for the Gideros Game Development Framework that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request. 
 
 ## Contents
 
