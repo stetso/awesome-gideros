@@ -55,7 +55,7 @@
 - [Simple square-dodge game](http://bluebilby.com/2013/05/08/gideros-mobile-tutorial-creating-your-first-game/) - introductory tutorial about creating a simple square-dodge game
 - [Top-down roguelike Tutorial](https://programmingbymoonlight.com/roguelike-intro/) - extensive tutorial series about making a turn-based roguelike in Gideros
 - [Breakout Clone](http://blog.hotbutteredgames.com/post/143878823915/gideros-tutorial-a-simple-box2d-game-gideros-is-a) - tutorial about creating a Breakout-like game using Gideros and Box2D
-- ["Grab the treasure" course](http://www.moosader.com/learn/introduction-to-mobile-game-development/) - a comprehensive getting-started guide to Gideros by developing a small game
+- ["Grab the treasure" course](http://www.moosader.com/learn/introduction-to-mobile-game-development/) - comprehensive getting-started guide to Gideros by developing a small game
 
 
 ### Publications
@@ -72,7 +72,7 @@
 - [Sublime Text 3 plugin](http://giderosmobile.com/forum/discussion/5218/gideros-sublime-text-3-package-for-osx-windows-version-0-10/p1) - adding Gideros support to ST3
 
 ### Graphics and Shaders
-- [Shaders in Gideros](http://bit.ly/2pkF09m) - an introductory text about shaders in Gideros
+- [Shaders in Gideros](http://bit.ly/2pkF09m) - introductory text about shaders in Gideros
 - [Shadertoy viewer](http://giderosmobile.com/forum/discussion/6667/shadertoy-viewer-beta-shaders-from-www-shadertoy-com-in-gideros/p1) - check out shaders from Shadertoy using Gideros
 - [Intro to clipping and the RenderTarget](http://www.indiedb.com/engines/gideros/tutorials/clipping-in-gideros-with-rendertarget) - text-based tutorial on how to use the RenderTarget class to create a clipping effect
 
@@ -102,8 +102,8 @@
 - [Intro to using audio with Gideros](http://bluebilby.com/2013/04/18/gideros-mobile-tutorial-playing-music-and-sound-effects/) - tutorial about generating and using sounds with Gideros
 
 ### Saving and Loading
-- [Using JSON](http://giderosmobile.com/forum/discussion/6918/saving-and-loading-data-files#Item_1) - Loading and saving manually via JSON
-- [DataSaver module](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile) - a very user-friendly wrapper to make saving and loading data as easy as possible
+- [Using JSON](http://giderosmobile.com/forum/discussion/6918/saving-and-loading-data-files#Item_1) - loading and saving manually via JSON
+- [DataSaver module](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile) - user-friendly wrapper to make saving and loading data as easy as possible
 - [Encrypting save files](http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1) - some ideas (with code) about securing the save files from unwanted manipulation
 
 ### Monetization
@@ -112,8 +112,8 @@
 
 ### GUI
 - [Layout](https://github.com/Nlcke/layout) - the "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23))
-- [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - a simple class for creating clickable buttons
-- [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - a sliding UI-Element that can be used for example for level selection
+- [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - simple class for creating clickable buttons
+- [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - sliding UI-Element that can be used for example for level selection
 
 ### 3d
 *Note: 3D support is still in development but if you like to play around with it already, here are some starting points*
