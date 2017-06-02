@@ -111,7 +111,7 @@
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - Second part of the Admob tutorial showing Google Play Service integration.
 
 ### GUI
-- [Layout](https://github.com/Nlcke/layout) - The "official" Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+- [Layout](https://github.com/Nlcke/layout) - A comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 
