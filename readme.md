@@ -10,25 +10,26 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Contents
 
-- [Getting Started](#starting)
+- [Download and Getting Started](#download-and-getting-starting)
 - [Resources](#resources)
-	- [Tutorials and Tips](#tutorials)
-	- [Full game examples](#fullgame)
+	- [General Tutorials and Tips](#general-tutorials-and-tips)
+	- [Full game examples](#full-game-examples)
 	- [Publications](#publications)
-	- [IDEs and Editors](#ide)
-	- [Graphics and Shaders](#gfx)
-	- [Scene Managment](#scenes)
+	- [IDEs and Editors](#ides-and-editors)
+	- [Graphics and Shaders](#graphics-and-shaders)
+	- [Scene Managment](#scene-management)
 	- [Input](#input)
-	- [Animation and Tweens](#animation)
+	- [Animation and Tweens](#animation-and-tweens)
 	- [Tilemaps](#tilemaps)
 	- [Camera](#camera)
 	- [Audio](#audio)
+	- [Saving and Loading](#saving-and-loading)
 	- [Monetization](#monetization)
-	- [Saving and Loading](#saveload)
 	- [GUI](#gui)
 	- [3D](#3d)
 	- [Plugins](#plugins)
-- [Useful Lua-Libraries](#lua)
+- [Useful Lua-Libraries](#useful-lua-libraries)
+- [License and Contriuting](#license-and-contributing)
 
 ## Download and Getting Started
 
@@ -40,7 +41,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Online Examples](http://giderosmobile.com/examples) - See some of the capabilites of Gideros in your browser.
 - [Developer Guide](http://giderosmobile.com/guide) - Official list of guides and tutorials.
 
-## Gideros Resources
+## Resources
 
 *A collection of resources (blog and forum entries, websites, packages etc) for Gideros*
 
@@ -138,7 +139,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
 
 
-## License and contributing
+## License and Contributing
 
 Please contribute to the list. Simply read the [contribution guidelines](contributing.md) to get started.
 
