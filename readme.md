@@ -1,18 +1,18 @@
 # Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
-	<a href="http://giderosmobile.com"><img width="400" src="gideros_logo.png" alt="Awesome Gideros"></a>
+	<a href="http://giderosmobile.com"><img width="200" src="gideros_logo.png" alt="Awesome Gideros"></a>
 	<br>
 	<br>
 </h1>
 
-A curated list of awesome resources for the Gideros Game Development Framework that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request.
+A curated list of awesome resources for the [Gideros Game Development Framework](http://giderosmobile.com/) that allows you to easily create games and apps for Android, iOS, HTML5, WinRT and Desktop (Windows, OSX). Please feel free to contribute to the list by making a pull request.
 
 ## Contents
 
-- [Download and Getting Started](#starting)
-- [Gideros Resources](#resources)
-	- [General Tutorials and Tips](#tutorials)
+- [Getting Started](#starting)
+- [Resources](#resources)
+	- [Tutorials and Tips](#tutorials)
 	- [Full game examples](#fullgame)
 	- [Publications](#publications)
 	- [IDEs and Editors](#ide)
@@ -34,8 +34,8 @@ A curated list of awesome resources for the Gideros Game Development Framework t
 
 - [Download Gideros](http://giderosmobile.com/download) - Get Gideros here (it is free but donations are welcome!).
 - [Getting Started Manual](http://docs.giderosmobile.com) - Check here first to get an overview of the framework.
-- [API Reference](http://docs.giderosmobile.com/reference/) - Whenever you need to figure out something - this is the first place to go.
-- [Forum](http://giderosmobile.com/forum/) - Join the very friendly and helpful community here.
+- [API Reference](http://docs.giderosmobile.com/reference/) - Whenever you need to figure something out- this is the first place to go.
+- [Forum](http://giderosmobile.com/forum/) - Join the very helpful community.
 - [Online Editor](http://giderosmobile.com/code/) - Try Gideros in your browser without installing anything.
 - [Online Examples](http://giderosmobile.com/examples) - See some of the capabilites of Gideros in your browser.
 - [Developer Guide](http://giderosmobile.com/guide) - Official list of guides and tutorials.
@@ -111,11 +111,11 @@ A curated list of awesome resources for the Gideros Game Development Framework t
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - Second part of the Admob tutorial showing Google Play Service integration.
 
 ### GUI
-- [Layout](https://github.com/Nlcke/layout) - A comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+- [Layout](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 
-### 3d
+### 3D
 *Note: 3D support is still in development but if you like to play around with it already, here are some starting points*
 - [Tutorial using 3D in Gideros](https://www.youtube.com/watch?v=IfHwdJD6ad8) - Introduction by one of the maintainers of Gideros.
 
@@ -124,7 +124,7 @@ A curated list of awesome resources for the Gideros Game Development Framework t
 - [C++ plugin development](http://giderosmobile.com/forum/discussion/1025/step-by-step-how-to-write-a-c-plugin-and-deploy-it-to-the-desktop-windows-player) - Getting started with Gideros plugin development in C++.
 
 ## Useful Lua-Libraries
-*general Lua libraries that are useful in gamedev but are not Gideros specific*
+*General Lua libraries that are useful in gamedev but are not Gideros specific*
 
 - [lume](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
 - [inspect](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
@@ -132,7 +132,7 @@ A curated list of awesome resources for the Gideros Game Development Framework t
 - [bump](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes.
 - [Bresenham](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
 
-## Related Awesome-Lists
+## Related Awesome Lists
 - [awesome-lua](https://github.com/LewisJEllis/awesome-lua)
 - [awesome-love2d](https://github.com/love2d-community/awesome-love2d)
 - [awesome-gamedev](https://github.com/mbrukman/awesome-gamedev)
