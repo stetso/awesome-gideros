@@ -10,7 +10,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Contents
 
-- [Download and Getting Started](#download-and-getting-starting)
+- [Download and Getting Started](#download-and-getting-started)
 - [Resources](#resources)
 	- [General Tutorials and Tips](#general-tutorials-and-tips)
 	- [Full game examples](#full-game-examples)
