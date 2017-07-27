@@ -10,9 +10,9 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 
 ## Contents
 
-- [Download and Getting Started](#download-and-getting-started)
+- [Getting Started](#getting-started)
 - [Resources](#resources)
-	- [General Tutorials and Tips](#general-tutorials-and-tips)
+	- [Tutorials and Tips](#tutorials-and-tips)
 	- [Full game examples](#full-game-examples)
 	- [Publications](#publications)
 	- [IDEs and Editors](#ides-and-editors)
@@ -31,7 +31,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Useful Lua-Libraries](#useful-lua-libraries)
 - [License and Contriuting](#license-and-contributing)
 
-## Download and Getting Started
+## Getting Started
 
 - [Download Gideros](http://giderosmobile.com/download) - Get Gideros here (it is free but donations are welcome!).
 - [Getting Started Manual](http://docs.giderosmobile.com) - Check here first to get an overview of the framework.
@@ -42,10 +42,9 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Developer Guide](http://giderosmobile.com/guide) - Official list of guides and tutorials.
 
 ## Resources
-
 *A collection of resources (blog and forum entries, websites, packages etc) for Gideros*
 
-### General Tutorials and Tips
+### Tutorials and Tips
 - [Introductory Video Tutorial](https://www.youtube.com/watch?v=IRLxBijIX50) - By one of the maintainers of Gideros.
 - [Publishing to Android](http://giderosmobile.com/forum/discussion/6894/publishing-tutorial#Item_7) - Getting started with publishing to Android.
 - [Improving performance](http://giderosmobile.com/forum/discussion/4892/software-improve-what-kind-of-skills-do-you-need) - Forum thread with hints about improving the performance of Gideros apps.
@@ -91,7 +90,6 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - Tween sprite variables with this library (comes with all the easing functions you need).
 - [Animation using MovieClip](http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/) - Tutorial on how to animate sprites using the MovieClip class.
 - [Spriteheet animation class](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
-
 
 ### Tilemaps
  - [Collision with Tilemaps](http://giderosmobile.com/forum/discussion/6353/collision-with-any-object/p1) - Examples and suggestions on how to make stuff collide with the tiles in your tilemap.
